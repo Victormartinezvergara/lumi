@@ -116,24 +116,27 @@ section {
     padding: 16px;
     margin: 10px;
     box-shadow: 5px 5px 5px rgba(161, 161, 161, 0.171);
+     background-color: #000;
 }
 
 .cuadro p {
     font-size: 12px;
+    Color: #f0f0f0;
 } 
 
     
 .adopta h2{
     font-size: 13px;
+    Color: #fff;
 }
 
 
 .cuadro button {
     border: none;
-    background-color: #000;
+    background-color: yellow;
     padding: 10px 20px 10px 20px;
     margin: 10px;
-    color: white;
+    color: #000;
     font-weight: bolder;
     font-size: 12px;
     border-radius: 7px;
