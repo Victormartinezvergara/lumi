@@ -110,7 +110,7 @@ section {
 
 .cuadro {
     border: 1px solid rgba(182, 181, 181, 0.205);
-    border-radius: 80px;
+    border-radius: 8px;
     width: 150px;
     padding: 16px;
     margin: 10px;
