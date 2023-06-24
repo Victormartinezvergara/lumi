@@ -16,11 +16,12 @@ header {
 header button {
     padding: 7px;
     font-weight: 900;
-    background-color: rgb(255, 238, 0);
+    background-color: blue;
     color: rgb(0, 0, 0);
     border: none;
     border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.089);
+    Color:#fff;
 }
 
 header a {
@@ -133,10 +134,10 @@ section {
 
 .cuadro button {
     border: none;
-    background-color: yellow;
+    background-color: blue;
     padding: 10px 20px 10px 20px;
     margin: 10px;
-    color: #000;
+    color: #fff;
     font-weight: bolder;
     font-size: 12px;
     border-radius: 7px;
